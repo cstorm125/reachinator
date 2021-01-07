@@ -105,7 +105,7 @@ Keras-Preprocessing==1.0.5
 kiwisolver==1.0.1
 lesscpy==0.13.0
 locket==0.2.0
-lxml==4.0.0
+lxml==4.6.2
 marisa-trie==0.7.4
 Markdown==2.6.11
 MarkupSafe==1.0
