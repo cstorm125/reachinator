@@ -133,7 +133,7 @@ numpydoc==0.8.0
 olefile==0.45.1
 onnx==1.2.1
 onnx-caffe2==1.0.0
-opencv-python==3.4.0.12
+opencv-python==4.2.0.32
 packaging==17.1
 palettable==3.1.0
 pandas==0.23.3
